@@ -1,0 +1,115 @@
+commit d60bf5bd8ab7132eeb7a9aad2f29a499c36bde83
+Author: SURA VINOD REDDY <suravinodreddy1215@gmail.com>
+Date:   Wed Mar 22 00:18:19 2023 +0530
+
+    deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 1d96fe6..8d9b662 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -4,3 +4,5 @@ SURA VINOD computer science & engineering    27591
+ 
+ ravan restarent  RRR
+ 
++Yellow
++
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 516a4b9..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-Expected Graduation Year : 2025 Job title : Software Development Engineer
+
+commit 621df07b4812ff0ff6b09a1d8e02dfe7406d77eb
+Author: SURA VINOD REDDY <suravinodreddy1215@gmail.com>
+Date:   Wed Mar 22 00:04:35 2023 +0530
+
+    file2.txt has been staged and it is included with expected year and job title
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..516a4b9
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++Expected Graduation Year : 2025 Job title : Software Development Engineer
+
+commit 631ff385b5ba708832f7a0f3377fdad39426ae88
+Author: SURA VINOD REDDY <suravinodreddy1215@gmail.com>
+Date:   Tue Mar 21 23:17:26 2023 +0530
+
+    Add favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 609931e..1d96fe6 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1,6 @@
+-SURA VINOD computer science & engineering    27591 asdf
++SURA VINOD computer science & engineering    27591 
++ 
++
++
++ravan restarent  RRR
+ 
+
+commit 30286e1bb4b57f888e51db1a0a92ef8516eebb42
+Author: SURA VINOD REDDY <suravinodreddy1215@gmail.com>
+Date:   Tue Mar 21 23:08:11 2023 +0530
+
+    commiting a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+index 27aef16..609931e 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-SURA VINOD REDDY   computer science & engineering  27591
++SURA VINOD computer science & engineering    27591 asdf
++
+
+commit e9829bdb58685a4d699cb708821b4c294e5c782b
+Author: SURA VINOD REDDY <suravinodreddy1215@gmail.com>
+Date:   Tue Mar 21 22:44:47 2023 +0530
+
+    now has my major
+
+diff --git a/file1.txt b/file1.txt
+index c85b8b8..27aef16 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-SURA VINOD REDDY   computer science & engineering
++SURA VINOD REDDY   computer science & engineering  27591
+
+commit 730f004502daeed288faa16debb2f3671ff3c0b1
+Author: SURA VINOD REDDY <suravinodreddy1215@gmail.com>
+Date:   Tue Mar 21 22:12:13 2023 +0530
+
+    comming a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+index 8144925..c85b8b8 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,2 +1 @@
+-SURA VINOD REDDY   27591
+-
++SURA VINOD REDDY   computer science & engineering
+
+commit 36c751d2c17ff2b6af5f64be8ef09df68719ad06
+Author: SURA VINOD REDDY <suravinodreddy1215@gmail.com>
+Date:   Tue Mar 21 14:59:55 2023 +0530
+
+    commiting a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..8144925
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1,2 @@
++SURA VINOD REDDY   27591
++
